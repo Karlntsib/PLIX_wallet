@@ -2,7 +2,7 @@
 
 [**Website**](https://plixcoin.io/) | [**Discord**](https://plixcoin.io) | [**Forum**](https://plixcoin.io) | [**Support**](https://plixcoin.io) | [**Documentation**](https://plixcoin.io)
 
-[![Waves App Promo](https://raw.githubusercontent.com/wavesplatform/WavesGUI/dev/README_IMG_01.png)](https://plixcoin.io)
+[![Plix App Promo](https://github.blog/2020-12-23-highlights-from-game-off-2020/)](https://plixcoin.io)
 
 PLIX Wallet is the official wallet software designed with mass adoption in mind. It allows to access your Plix account, handle financial operations, issue tokens, and trade on DEX.
 
